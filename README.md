@@ -18,9 +18,9 @@ Feel free to access [my portfolio] (http://www.emerge.art.br).
 
 > Claritas est etiam processus dynamicus, qui sequitur *mutationem* consuetudium lectorum.
 
-  Claritas est etiam processus dynamicus, qui sequitur **mutationem** consuetudium lectorum.
+Claritas est etiam processus dynamicus, qui sequitur **mutationem** consuetudium lectorum.
 
-  ### Crazy good software
+### Crazy good software
 
   * Rapid Development
   + Tested
